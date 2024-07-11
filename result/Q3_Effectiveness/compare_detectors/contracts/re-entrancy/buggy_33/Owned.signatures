@@ -1,0 +1,8 @@
+9128b348: bug_re_ent27()
+fb7e0819: buyTicket_re_ent2()
+9771238b: claimReward_re_ent32()
+d4ee1d90: newOwner()
+8da5cb5b: owner()
+f2fde38b: transferOwnership(address)
+8d18e1e8: withdrawFunds_re_ent17(uint256)
+25fbee58: withdrawFunds_re_ent38(uint256)

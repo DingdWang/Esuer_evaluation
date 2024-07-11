@@ -1,0 +1,222 @@
+[
+    {
+        "function": "0x6b3ad66",
+        "offset": 3661,
+        "sources": [
+            "%19 = ORIGIN()",
+            "%20 = AND(#ffffffffffffffffffffffffffffffffffffffff, %19)",
+            "%21 = EQ(%20, %15)",
+            "JUMPI(#e6d, %21)"
+        ]
+    },
+    {
+        "function": "0x93533b0",
+        "offset": 3882,
+        "sources": [
+            "%107 = ORIGIN()",
+            "%108 = AND(#ffffffffffffffffffffffffffffffffffffffff, %107)",
+            "%109 = EQ(%108, %103)",
+            "JUMPI(#f4a, %109)"
+        ]
+    },
+    {
+        "function": "0xa20e74e",
+        "offset": 3966,
+        "sources": [
+            "%169 = ORIGIN()",
+            "%170 = AND(#ffffffffffffffffffffffffffffffffffffffff, %169)",
+            "%171 = EQ(%170, %165)",
+            "JUMPI(#f9e, %171)"
+        ]
+    },
+    {
+        "function": "0xccb9a12",
+        "offset": 4027,
+        "sources": [
+            "%187 = ORIGIN()",
+            "%188 = AND(#ffffffffffffffffffffffffffffffffffffffff, %187)",
+            "%189 = EQ(%188, %183)",
+            "JUMPI(#fdb, %189)"
+        ]
+    },
+    {
+        "function": "0x3373f9d0",
+        "offset": 4320,
+        "sources": [
+            "%341 = ORIGIN()",
+            "%342 = AND(#ffffffffffffffffffffffffffffffffffffffff, %341)",
+            "%343 = EQ(%342, %337)",
+            "JUMPI(#1100, %343)"
+        ]
+    },
+    {
+        "function": "0x5119e000",
+        "offset": 4394,
+        "sources": [
+            "%393 = ORIGIN()",
+            "%394 = AND(#ffffffffffffffffffffffffffffffffffffffff, %393)",
+            "%395 = EQ(%394, %389)",
+            "JUMPI(#114a, %395)"
+        ]
+    },
+    {
+        "function": "0x520aba35",
+        "offset": 4453,
+        "sources": [
+            "%411 = ORIGIN()",
+            "%412 = AND(#ffffffffffffffffffffffffffffffffffffffff, %411)",
+            "%413 = EQ(%412, %407)",
+            "JUMPI(#1185, %413)"
+        ]
+    },
+    {
+        "function": "0x5d7585b8",
+        "offset": 4585,
+        "sources": [
+            "%440 = ORIGIN()",
+            "%441 = AND(#ffffffffffffffffffffffffffffffffffffffff, %440)",
+            "%442 = EQ(%441, %436)",
+            "JUMPI(#1209, %442)"
+        ]
+    },
+    {
+        "function": "0x61f4e670",
+        "offset": 4646,
+        "sources": [
+            "%458 = ORIGIN()",
+            "%459 = AND(#ffffffffffffffffffffffffffffffffffffffff, %458)",
+            "%460 = EQ(%459, %454)",
+            "JUMPI(#1246, %460)"
+        ]
+    },
+    {
+        "function": "0x68c6116f",
+        "offset": 4707,
+        "sources": [
+            "%478 = ORIGIN()",
+            "%479 = AND(#ffffffffffffffffffffffffffffffffffffffff, %478)",
+            "%480 = EQ(%479, %474)",
+            "JUMPI(#1283, %480)"
+        ]
+    },
+    {
+        "function": "0x8376964d",
+        "offset": 4912,
+        "sources": [
+            "%526 = ORIGIN()",
+            "%527 = AND(#ffffffffffffffffffffffffffffffffffffffff, %526)",
+            "%528 = EQ(%527, %522)",
+            "JUMPI(#1350, %528)"
+        ]
+    },
+    {
+        "function": "0x8fecc3f9",
+        "offset": 4973,
+        "sources": [
+            "%542 = ORIGIN()",
+            "%543 = AND(#ffffffffffffffffffffffffffffffffffffffff, %542)",
+            "%544 = EQ(%543, %538)",
+            "JUMPI(#138d, %544)"
+        ]
+    },
+    {
+        "function": "0xb389b2c9",
+        "offset": 5312,
+        "sources": [
+            "%699 = ORIGIN()",
+            "%700 = AND(#ffffffffffffffffffffffffffffffffffffffff, %699)",
+            "%701 = EQ(%700, %695)",
+            "JUMPI(#14e0, %701)"
+        ]
+    },
+    {
+        "function": "0xb9e31258",
+        "offset": 5371,
+        "sources": [
+            "%712 = ORIGIN()",
+            "%713 = AND(#ffffffffffffffffffffffffffffffffffffffff, %712)",
+            "%714 = EQ(%713, %708)",
+            "JUMPI(#151b, %714)"
+        ]
+    },
+    {
+        "function": "0xbff27928",
+        "offset": 5430,
+        "sources": [
+            "%729 = ORIGIN()",
+            "%730 = AND(#ffffffffffffffffffffffffffffffffffffffff, %729)",
+            "%731 = EQ(%730, %725)",
+            "JUMPI(#1556, %731)"
+        ]
+    },
+    {
+        "function": "0xf54c741d",
+        "offset": 5719,
+        "sources": [
+            "%783 = ORIGIN()",
+            "%784 = AND(#ffffffffffffffffffffffffffffffffffffffff, %783)",
+            "%785 = EQ(%784, %779)",
+            "JUMPI(#1677, %785)"
+        ]
+    },
+    {
+        "function": "0xf6292d59",
+        "offset": 5778,
+        "sources": [
+            "%801 = ORIGIN()",
+            "%802 = AND(#ffffffffffffffffffffffffffffffffffffffff, %801)",
+            "%803 = EQ(%802, %797)",
+            "JUMPI(#16b2, %803)"
+        ]
+    },
+    {
+        "function": "0xf6f11371",
+        "offset": 5910,
+        "sources": [
+            "%828 = ORIGIN()",
+            "%829 = AND(#ffffffffffffffffffffffffffffffffffffffff, %828)",
+            "%830 = EQ(%829, %824)",
+            "JUMPI(#1736, %830)"
+        ]
+    },
+    {
+        "function": "0xf7ae6cde",
+        "offset": 6064,
+        "sources": [
+            "%860 = ORIGIN()",
+            "%861 = AND(#ffffffffffffffffffffffffffffffffffffffff, %860)",
+            "%862 = EQ(%861, %856)",
+            "JUMPI(#17d0, %862)"
+        ]
+    },
+    {
+        "function": "0xf935226e",
+        "offset": 6196,
+        "sources": [
+            "%887 = ORIGIN()",
+            "%888 = AND(#ffffffffffffffffffffffffffffffffffffffff, %887)",
+            "%889 = EQ(%888, %883)",
+            "JUMPI(#1854, %889)"
+        ]
+    },
+    {
+        "function": "0xfd5225fc",
+        "offset": 6350,
+        "sources": [
+            "%914 = ORIGIN()",
+            "%915 = AND(#ffffffffffffffffffffffffffffffffffffffff, %914)",
+            "%916 = EQ(%915, %910)",
+            "JUMPI(#18ee, %916)"
+        ]
+    },
+    {
+        "function": "0xfffdba83",
+        "offset": 6409,
+        "sources": [
+            "%932 = ORIGIN()",
+            "%933 = AND(#ffffffffffffffffffffffffffffffffffffffff, %932)",
+            "%934 = EQ(%933, %928)",
+            "JUMPI(#1929, %934)"
+        ]
+    }
+]

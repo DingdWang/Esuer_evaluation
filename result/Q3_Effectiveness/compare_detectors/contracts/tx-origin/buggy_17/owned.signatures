@@ -1,0 +1,5 @@
+5119e000: bug_txorigin20(address)
+06b3ad66: bug_txorigin32(address)
+8da5cb5b: owner()
+f2fde38b: transferOwnership(address)
+fe3d3a94: withdrawAll_txorigin10(address,address)

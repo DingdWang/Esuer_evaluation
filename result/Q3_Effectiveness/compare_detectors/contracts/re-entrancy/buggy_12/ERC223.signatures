@@ -1,0 +1,7 @@
+70a08231: balanceOf(address)
+a328c11f: bug_re_ent13()
+3c7604de: buyTicket_re_ent37()
+acc0544f: buyTicket_re_ent9()
+a9059cbb: transfer(address,uint256)
+be45fd62: transfer(address,uint256,bytes)
+a4e80ee0: withdrawFunds_re_ent3(uint256)

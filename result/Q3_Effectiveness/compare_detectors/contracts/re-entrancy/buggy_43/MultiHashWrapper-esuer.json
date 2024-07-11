@@ -1,0 +1,30 @@
+[
+    {
+        "function": "0x25fbee58",
+        "offset": 238,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "327": "SSTORE(%36, %38)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x8ac2015f",
+        "offset": 523,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "614": "SSTORE(%70, #0)"
+                }
+            ]
+        }
+    }
+]

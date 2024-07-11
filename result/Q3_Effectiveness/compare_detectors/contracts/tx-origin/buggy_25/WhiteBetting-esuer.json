@@ -1,0 +1,212 @@
+[
+    {
+        "function": "0x6b3ad66",
+        "offset": 6793,
+        "sources": [
+            "%471 = ORIGIN()",
+            "%472 = AND(#ffffffffffffffffffffffffffffffffffffffff, %471)",
+            "%473 = EQ(%472, %467)",
+            "JUMPI(#1aa9, %473)"
+        ]
+    },
+    {
+        "function": "0x93533b0",
+        "offset": 6852,
+        "sources": [
+            "%491 = ORIGIN()",
+            "%492 = AND(#ffffffffffffffffffffffffffffffffffffffff, %491)",
+            "%493 = EQ(%492, %487)",
+            "JUMPI(#1ae4, %493)"
+        ]
+    },
+    {
+        "function": "0xa20e74e",
+        "offset": 6913,
+        "sources": [
+            "%527 = ORIGIN()",
+            "%528 = AND(#ffffffffffffffffffffffffffffffffffffffff, %527)",
+            "%529 = EQ(%528, %523)",
+            "JUMPI(#1b21, %529)"
+        ]
+    },
+    {
+        "function": "0xccb9a12",
+        "offset": 6974,
+        "sources": [
+            "%547 = ORIGIN()",
+            "%548 = AND(#ffffffffffffffffffffffffffffffffffffffff, %547)",
+            "%549 = EQ(%548, %543)",
+            "JUMPI(#1b5e, %549)"
+        ]
+    },
+    {
+        "function": "0x3373f9d0",
+        "offset": 7526,
+        "sources": [
+            "%636 = ORIGIN()",
+            "%637 = AND(#ffffffffffffffffffffffffffffffffffffffff, %636)",
+            "%638 = EQ(%637, %632)",
+            "JUMPI(#1d86, %638)"
+        ]
+    },
+    {
+        "function": "0x5119e000",
+        "offset": 7587,
+        "sources": [
+            "%651 = ORIGIN()",
+            "%652 = AND(#ffffffffffffffffffffffffffffffffffffffff, %651)",
+            "%653 = EQ(%652, %647)",
+            "JUMPI(#1dc3, %653)"
+        ]
+    },
+    {
+        "function": "0x520aba35",
+        "offset": 7646,
+        "sources": [
+            "%671 = ORIGIN()",
+            "%672 = AND(#ffffffffffffffffffffffffffffffffffffffff, %671)",
+            "%673 = EQ(%672, %667)",
+            "JUMPI(#1dfe, %673)"
+        ]
+    },
+    {
+        "function": "0x5d7585b8",
+        "offset": 8158,
+        "sources": [
+            "%851 = ORIGIN()",
+            "%852 = AND(#ffffffffffffffffffffffffffffffffffffffff, %851)",
+            "%853 = EQ(%852, %847)",
+            "JUMPI(#1ffe, %853)"
+        ]
+    },
+    {
+        "function": "0x68c6116f",
+        "offset": 9946,
+        "sources": [
+            "%1181 = ORIGIN()",
+            "%1182 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1181)",
+            "%1183 = EQ(%1182, %1177)",
+            "JUMPI(#26fa, %1183)"
+        ]
+    },
+    {
+        "function": "0x8376964d",
+        "offset": 10078,
+        "sources": [
+            "%1212 = ORIGIN()",
+            "%1213 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1212)",
+            "%1214 = EQ(%1213, %1208)",
+            "JUMPI(#277e, %1214)"
+        ]
+    },
+    {
+        "function": "0x8fecc3f9",
+        "offset": 10176,
+        "sources": [
+            "%1243 = ORIGIN()",
+            "%1244 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1243)",
+            "%1245 = EQ(%1244, %1239)",
+            "JUMPI(#27e0, %1245)"
+        ]
+    },
+    {
+        "function": "0xb389b2c9",
+        "offset": 10562,
+        "sources": [
+            "%1307 = ORIGIN()",
+            "%1308 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1307)",
+            "%1309 = EQ(%1308, %1303)",
+            "JUMPI(#2962, %1309)"
+        ]
+    },
+    {
+        "function": "0xb9e31258",
+        "offset": 10731,
+        "sources": [
+            "%1338 = ORIGIN()",
+            "%1339 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1338)",
+            "%1340 = EQ(%1339, %1334)",
+            "JUMPI(#2a0b, %1340)"
+        ]
+    },
+    {
+        "function": "0xbff27928",
+        "offset": 10790,
+        "sources": [
+            "%1357 = ORIGIN()",
+            "%1358 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1357)",
+            "%1359 = EQ(%1358, %1353)",
+            "JUMPI(#2a46, %1359)"
+        ]
+    },
+    {
+        "function": "0xf54c741d",
+        "offset": 12144,
+        "sources": [
+            "%1623 = ORIGIN()",
+            "%1624 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1623)",
+            "%1625 = EQ(%1624, %1619)",
+            "JUMPI(#2f90, %1625)"
+        ]
+    },
+    {
+        "function": "0xf6292d59",
+        "offset": 12203,
+        "sources": [
+            "%1643 = ORIGIN()",
+            "%1644 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1643)",
+            "%1645 = EQ(%1644, %1639)",
+            "JUMPI(#2fcb, %1645)"
+        ]
+    },
+    {
+        "function": "0xf6f11371",
+        "offset": 12335,
+        "sources": [
+            "%1672 = ORIGIN()",
+            "%1673 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1672)",
+            "%1674 = EQ(%1673, %1668)",
+            "JUMPI(#304f, %1674)"
+        ]
+    },
+    {
+        "function": "0xf7ae6cde",
+        "offset": 12489,
+        "sources": [
+            "%1706 = ORIGIN()",
+            "%1707 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1706)",
+            "%1708 = EQ(%1707, %1702)",
+            "JUMPI(#30e9, %1708)"
+        ]
+    },
+    {
+        "function": "0xf935226e",
+        "offset": 12621,
+        "sources": [
+            "%1735 = ORIGIN()",
+            "%1736 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1735)",
+            "%1737 = EQ(%1736, %1731)",
+            "JUMPI(#316d, %1737)"
+        ]
+    },
+    {
+        "function": "0xfd5225fc",
+        "offset": 12775,
+        "sources": [
+            "%1764 = ORIGIN()",
+            "%1765 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1764)",
+            "%1766 = EQ(%1765, %1760)",
+            "JUMPI(#3207, %1766)"
+        ]
+    },
+    {
+        "function": "0xfffdba83",
+        "offset": 12834,
+        "sources": [
+            "%1784 = ORIGIN()",
+            "%1785 = AND(#ffffffffffffffffffffffffffffffffffffffff, %1784)",
+            "%1786 = EQ(%1785, %1780)",
+            "JUMPI(#3242, %1786)"
+        ]
+    }
+]

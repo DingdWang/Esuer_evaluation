@@ -1,0 +1,302 @@
+[
+    {
+        "function": "0xf7219b0",
+        "offset": 4164,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "4193": "SSTORE(#1, %22)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x1578e01e",
+        "offset": 4268,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "4298": "SSTORE(#1f, %38)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x1abf48c0",
+        "offset": 4379,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "4409": "SSTORE(#19, %62)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x48c3c51f",
+        "offset": 6700,
+        "sources": {
+            "call": [
+                "CALLDATALOAD(#24)"
+            ],
+            "sstore": [
+                {
+                    "6919": "SSTORE(%445, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x4ca6972a",
+        "offset": 7042,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "7124": "SSTORE(%526, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x54611e35",
+        "offset": 7433,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "7511": "SSTORE(%579, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x6cfd7721",
+        "offset": 15667,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "15802": "SSTORE(%2125, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x70563d6b",
+        "offset": 17621,
+        "sources": {
+            "call": [
+                "CALLDATALOAD(#24)"
+            ],
+            "sstore": [
+                {
+                    "17948": "SSTORE(%2236, %2225)"
+                },
+                {
+                    "18348": "SSTORE(%2275, %2259)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x70563d6b",
+        "offset": 16327,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "16620": "SSTORE(%2394, %2383)"
+                },
+                {
+                    "17020": "SSTORE(%2433, %2417)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x83a62805",
+        "offset": 19370,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "19461": "SSTORE(%2752, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x8d0c9354",
+        "offset": 19657,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "19748": "SSTORE(%2788, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x8d18e1e8",
+        "offset": 19876,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "20019": "SSTORE(%2825, %2827)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x8f94454c",
+        "offset": 20135,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "20270": "SSTORE(%2863, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x9128b348",
+        "offset": 20355,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "20395": "SSTORE(#22, %2893)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa112c615",
+        "offset": 20522,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "20612": "SSTORE(%2930, %2932)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa2bcc8c5",
+        "offset": 20727,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "20858": "SSTORE(%2959, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa328c11f",
+        "offset": 20943,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "21035": "SSTORE(#0, %2991)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa4e80ee0",
+        "offset": 21163,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "21306": "SSTORE(%3040, %3042)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xc6604ad7",
+        "offset": 21865,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "22000": "SSTORE(%3162, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xf9a1f3d9",
+        "offset": 23504,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "23543": "SSTORE(#0, %3487)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xfef28f0b",
+        "offset": 23813,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "23843": "SSTORE(#8, %3534)"
+                }
+            ]
+        }
+    }
+]

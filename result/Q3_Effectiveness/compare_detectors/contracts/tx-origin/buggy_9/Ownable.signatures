@@ -1,0 +1,3 @@
+06b3ad66: bug_txorigin32(address)
+8da5cb5b: owner()
+ebb646c2: sendto_txorigin17(address,uint256,address)

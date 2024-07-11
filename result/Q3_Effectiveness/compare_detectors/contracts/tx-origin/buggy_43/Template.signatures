@@ -1,0 +1,7 @@
+f54c741d: bug_txorigin8(address)
+0ee2cb10: getCreator()
+88cc58e4: getFactory()
+efd46065: isCreator(address)
+64acbadd: sendto_txorigin1(address,uint256,address)
+f935226e: withdrawAll_txorigin14(address,address)
+f6f11371: withdrawAll_txorigin30(address,address)

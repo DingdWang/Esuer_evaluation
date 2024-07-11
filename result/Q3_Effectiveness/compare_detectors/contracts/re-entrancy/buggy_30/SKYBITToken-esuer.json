@@ -1,0 +1,617 @@
+[
+    {
+        "function": "0xd5feff1",
+        "offset": 5193,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "5223": "SSTORE(#11, %209)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xf7219b0",
+        "offset": 5298,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "5328": "SSTORE(#1a, %223)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x1578e01e",
+        "offset": 5403,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "5433": "SSTORE(#1d, %237)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x1abf48c0",
+        "offset": 5518,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "5548": "SSTORE(#34, %258)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x1f510f8e",
+        "offset": 5632,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "5672": "SSTORE(#c, %276)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x23b872dd",
+        "offset": 19270,
+        "sources": {
+            "call": [
+                "MLOAD(%331)",
+                "MLOAD(#40)"
+            ],
+            "sstore": [
+                {
+                    "18387": "SSTORE(%438, %424)"
+                },
+                {
+                    "19598": "SSTORE(%374, %367)"
+                },
+                {
+                    "19449": "SSTORE(%359, %354)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x25fbee58",
+        "offset": 6372,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "6462": "SSTORE(%765, %767)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x37eba6e4",
+        "offset": 6586,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "6664": "SSTORE(%797, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x4ca6972a",
+        "offset": 7355,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "7437": "SSTORE(%947, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x54611e35",
+        "offset": 7746,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "7824": "SSTORE(%995, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x5700ec4d",
+        "offset": 7961,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "8051": "SSTORE(%1031, %1033)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x5c5ec980",
+        "offset": 8136,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "8176": "SSTORE(#12, %1051)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x62ad1b83",
+        "offset": 19270,
+        "sources": {
+            "call": [
+                "MLOAD(%1175)",
+                "MLOAD(#40)"
+            ],
+            "sstore": [
+                {
+                    "19598": "SSTORE(%1214, %1207)"
+                },
+                {
+                    "19449": "SSTORE(%1199, %1194)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x6cfd7721",
+        "offset": 8569,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "8704": "SSTORE(%1585, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x70029fa8",
+        "offset": 8830,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "8912": "SSTORE(%1670, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x740ed145",
+        "offset": 9180,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "9271": "SSTORE(%1721, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x83a62805",
+        "offset": 9573,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "9664": "SSTORE(%1847, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x8ac2015f",
+        "offset": 10213,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "10304": "SSTORE(%1943, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x8d0c9354",
+        "offset": 10500,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "10591": "SSTORE(%1977, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x8d18e1e8",
+        "offset": 10719,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "10862": "SSTORE(%2015, %2017)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x8f94454c",
+        "offset": 10978,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "11113": "SSTORE(%2051, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x9128b348",
+        "offset": 11198,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "11238": "SSTORE(#29, %2079)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x96c176f9",
+        "offset": 12117,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "12248": "SSTORE(%2252, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x9771238b",
+        "offset": 12445,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "12536": "SSTORE(%2294, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x9bd9bbc6",
+        "offset": 19270,
+        "sources": {
+            "call": [
+                "MLOAD(%2516)",
+                "MLOAD(#40)"
+            ],
+            "sstore": [
+                {
+                    "19449": "SSTORE(%2540, %2535)"
+                },
+                {
+                    "19598": "SSTORE(%2555, %2548)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa112c615",
+        "offset": 12886,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "12976": "SSTORE(%2883, %2885)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa2bcc8c5",
+        "offset": 13091,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "13222": "SSTORE(%2910, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa328c11f",
+        "offset": 13308,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "13401": "SSTORE(#32, %2940)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa4e80ee0",
+        "offset": 13529,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "13672": "SSTORE(%2987, %2989)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa63b748c",
+        "offset": 13869,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "13960": "SSTORE(%3031, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa9059cbb",
+        "offset": 19270,
+        "sources": {
+            "call": [
+                "MLOAD(%3077)",
+                "MLOAD(#40)"
+            ],
+            "sstore": [
+                {
+                    "19598": "SSTORE(%3120, %3113)"
+                },
+                {
+                    "19449": "SSTORE(%3105, %3100)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa9e9834a",
+        "offset": 14321,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "14351": "SSTORE(#13, %3435)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xc6604ad7",
+        "offset": 14865,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "15000": "SSTORE(%3882, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xcbaa318a",
+        "offset": 15128,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "15218": "SSTORE(%3923, %3925)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xd8fa982f",
+        "offset": 15303,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "15343": "SSTORE(#2c, %3943)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xe8a53b87",
+        "offset": 16220,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "16298": "SSTORE(%4088, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xf0b6e306",
+        "offset": 16413,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "16544": "SSTORE(%4113, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xf89d4368",
+        "offset": 16660,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "16742": "SSTORE(%4145, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xf9a1f3d9",
+        "offset": 16826,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "16866": "SSTORE(#19, %4163)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xfc673c4f",
+        "offset": 19270,
+        "sources": {
+            "call": [
+                "MLOAD(%4366)",
+                "MLOAD(#40)"
+            ],
+            "sstore": [
+                {
+                    "23013": "SSTORE(#2, %4380)"
+                },
+                {
+                    "23162": "SSTORE(%4395, %4390)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xfe9d9303",
+        "offset": 19270,
+        "sources": {
+            "call": [
+                "MLOAD(%4677)",
+                "MLOAD(#40)"
+            ],
+            "sstore": [
+                {
+                    "23013": "SSTORE(#2, %4691)"
+                },
+                {
+                    "23162": "SSTORE(%4706, %4701)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xfef28f0b",
+        "offset": 18092,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "18122": "SSTORE(#30, %4884)"
+                }
+            ]
+        }
+    }
+]

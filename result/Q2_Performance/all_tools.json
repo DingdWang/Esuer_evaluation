@@ -1,0 +1,44 @@
+{
+    "ethersolve": {
+        "success_number": 9881,
+        "error_number": 114,
+        "timeout_number": 5,
+        "ave_timeout": 0.861992802652267
+    },
+    "mythril": {
+        "success_number": 548,
+        "error_number": 4,
+        "timeout_number": 9448,
+        "ave_timeout": 42.93157751281766
+    },
+    "gigahorse": {
+        "success_number": 9904,
+        "error_number": 0,
+        "timeout_number": 96,
+        "ave_timeout": 7.399753571615851
+    },
+    "octopus": {
+        "success_number": 6057,
+        "error_number": 3523,
+        "timeout_number": 420,
+        "ave_timeout": 15.232920018009214
+    },
+    "vandal": {
+        "success_number": 9404,
+        "error_number": 35,
+        "timeout_number": 561,
+        "ave_timeout": 24.095230212925546
+    },
+    "rattle": {
+        "success_number": 5987,
+        "error_number": 3029,
+        "timeout_number": 984,
+        "ave_timeout": 22.45374071289427
+    },
+    "esuer": {
+        "success_number": 9925,
+        "error_number": 0,
+        "timeout_number": 75,
+        "ave_timeout": 1.0581619034966534
+    }
+}

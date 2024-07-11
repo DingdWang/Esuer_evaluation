@@ -1,0 +1,6 @@
+dd62ed3e: allowance(address,address)
+70a08231: balanceOf(address)
+501ea27d: buyTicket_re_ent23()
+1abf48c0: callme_re_ent14()
+fef28f0b: callme_re_ent7()
+23b872dd: transferFrom(address,address,uint256)

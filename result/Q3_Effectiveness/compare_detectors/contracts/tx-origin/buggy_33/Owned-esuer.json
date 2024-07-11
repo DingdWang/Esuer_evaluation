@@ -1,0 +1,52 @@
+[
+    {
+        "function": "0x6b3ad66",
+        "offset": 869,
+        "sources": [
+            "%17 = ORIGIN()",
+            "%18 = AND(#ffffffffffffffffffffffffffffffffffffffff, %17)",
+            "%19 = EQ(%18, %13)",
+            "JUMPI(#385, %19)"
+        ]
+    },
+    {
+        "function": "0xccb9a12",
+        "offset": 928,
+        "sources": [
+            "%35 = ORIGIN()",
+            "%36 = AND(#ffffffffffffffffffffffffffffffffffffffff, %35)",
+            "%37 = EQ(%36, %31)",
+            "JUMPI(#3c0, %37)"
+        ]
+    },
+    {
+        "function": "0xb7369007",
+        "offset": 1026,
+        "sources": [
+            "%62 = ORIGIN()",
+            "%63 = AND(#ffffffffffffffffffffffffffffffffffffffff, %62)",
+            "%64 = EQ(%63, %58)",
+            "JUMPI(#422, %64)"
+        ]
+    },
+    {
+        "function": "0xbff27928",
+        "offset": 1180,
+        "sources": [
+            "%92 = ORIGIN()",
+            "%93 = AND(#ffffffffffffffffffffffffffffffffffffffff, %92)",
+            "%94 = EQ(%93, %88)",
+            "JUMPI(#4bc, %94)"
+        ]
+    },
+    {
+        "function": "0xebb646c2",
+        "offset": 1372,
+        "sources": [
+            "%135 = ORIGIN()",
+            "%136 = AND(#ffffffffffffffffffffffffffffffffffffffff, %135)",
+            "%137 = EQ(%136, %131)",
+            "JUMPI(#57c, %137)"
+        ]
+    }
+]

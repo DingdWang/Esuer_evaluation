@@ -1,0 +1,74 @@
+{
+  "name": "Analysis_2024-05-14_07-21-36",
+  "address": "",
+  "binarySource": "73000000000000000000000000000000000000000030146080604052600080fdfea265627a7a723158209c499012d420c5b896903830913e627c5d30e335356cfeb810ef6bc1eaf5471664736f6c634300050b0032",
+  "binaryHash": "cd390ac5",
+  "isOnlyRuntime": true,
+  "metadata": "a265627a7a723158209c499012d420c5b896903830913e627c5d30e335356cfeb810ef6bc1eaf5471664736f6c634300050b0032",
+  "solidityVersion": "0.5.11",
+  "constructorRemainingData": "",
+  "constructorCfg": {
+    "bytecode": "",
+    "remainingData": "",
+    "nodes": [],
+    "successors": [],
+    "buildReport": {
+      "directJumpTargetErrors": 0,
+      "orphanJumpTargetNullErrors": 0,
+      "orphanJumpTargetUnknownErrors": 0,
+      "loopDepthExceededErrors": 0,
+      "multipleRootNodesErrors": 0,
+      "stackExceededErrors": 0,
+      "blockLimitErrors": 0,
+      "criticalErrors": 0,
+      "errorLog": "",
+      "buildTimeMillis": 1715671296552
+    }
+  },
+  "runtimeCfg": {
+    "bytecode": "73000000000000000000000000000000000000000030146080604052600080fdfe",
+    "remainingData": "fe",
+    "nodes": [
+      {
+        "offset": 0,
+        "length": 32,
+        "type": "dispatcher",
+        "stackBalance": 1,
+        "bytecodeHex": "73000000000000000000000000000000000000000030146080604052600080fd",
+        "parsedOpcodes": "0: PUSH20 0x0000000000000000000000000000000000000000\n21: ADDRESS\n22: EQ\n23: PUSH1 0x80\n25: PUSH1 0x40\n27: MSTORE\n28: PUSH1 0x00\n30: DUP1\n31: REVERT"
+      },
+      {
+        "offset": 32,
+        "length": 0,
+        "type": "exit",
+        "stackBalance": 0,
+        "bytecodeHex": "",
+        "parsedOpcodes": "32: EXIT BLOCK"
+      }
+    ],
+    "successors": [
+      {
+        "from": 0,
+        "to": [
+          32
+        ]
+      },
+      {
+        "from": 32,
+        "to": []
+      }
+    ],
+    "buildReport": {
+      "directJumpTargetErrors": 0,
+      "orphanJumpTargetNullErrors": 0,
+      "orphanJumpTargetUnknownErrors": 0,
+      "loopDepthExceededErrors": 0,
+      "multipleRootNodesErrors": 0,
+      "stackExceededErrors": 0,
+      "blockLimitErrors": 0,
+      "criticalErrors": 0,
+      "errorLog": "",
+      "buildTimeMillis": 33
+    }
+  }
+}

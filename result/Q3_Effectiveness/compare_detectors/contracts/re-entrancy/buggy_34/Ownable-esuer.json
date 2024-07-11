@@ -1,0 +1,44 @@
+[
+    {
+        "function": "0x37eba6e4",
+        "offset": 431,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "508": "SSTORE(%28, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x8d18e1e8",
+        "offset": 636,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "779": "SSTORE(%61, %63)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x9128b348",
+        "offset": 903,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "943": "SSTORE(#1, %102)"
+                }
+            ]
+        }
+    }
+]

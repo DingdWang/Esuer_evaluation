@@ -1,0 +1,32 @@
+[
+    {
+        "function": "0x6b3ad66",
+        "offset": 494,
+        "sources": [
+            "%16 = ORIGIN()",
+            "%17 = AND(#ffffffffffffffffffffffffffffffffffffffff, %16)",
+            "%18 = EQ(%17, %12)",
+            "JUMPI(#20e, %18)"
+        ]
+    },
+    {
+        "function": "0x5119e000",
+        "offset": 553,
+        "sources": [
+            "%29 = ORIGIN()",
+            "%30 = AND(#ffffffffffffffffffffffffffffffffffffffff, %29)",
+            "%31 = EQ(%30, %25)",
+            "JUMPI(#249, %31)"
+        ]
+    },
+    {
+        "function": "0xfe3d3a94",
+        "offset": 805,
+        "sources": [
+            "%81 = ORIGIN()",
+            "%82 = AND(#ffffffffffffffffffffffffffffffffffffffff, %81)",
+            "%83 = EQ(%82, %77)",
+            "JUMPI(#345, %83)"
+        ]
+    }
+]

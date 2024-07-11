@@ -1,0 +1,42 @@
+[
+    {
+        "function": "0x3373f9d0",
+        "offset": 1006,
+        "sources": [
+            "%60 = ORIGIN()",
+            "%61 = AND(#ffffffffffffffffffffffffffffffffffffffff, %60)",
+            "%62 = EQ(%61, %56)",
+            "JUMPI(#40e, %62)"
+        ]
+    },
+    {
+        "function": "0x57c7f0e8",
+        "offset": 1067,
+        "sources": [
+            "%73 = ORIGIN()",
+            "%74 = AND(#ffffffffffffffffffffffffffffffffffffffff, %73)",
+            "%75 = EQ(%74, %69)",
+            "JUMPI(#44b, %75)"
+        ]
+    },
+    {
+        "function": "0xf935226e",
+        "offset": 1230,
+        "sources": [
+            "%151 = ORIGIN()",
+            "%152 = AND(#ffffffffffffffffffffffffffffffffffffffff, %151)",
+            "%153 = EQ(%152, %147)",
+            "JUMPI(#4ee, %153)"
+        ]
+    },
+    {
+        "function": "0xfffdba83",
+        "offset": 1384,
+        "sources": [
+            "%183 = ORIGIN()",
+            "%184 = AND(#ffffffffffffffffffffffffffffffffffffffff, %183)",
+            "%185 = EQ(%184, %179)",
+            "JUMPI(#588, %185)"
+        ]
+    }
+]

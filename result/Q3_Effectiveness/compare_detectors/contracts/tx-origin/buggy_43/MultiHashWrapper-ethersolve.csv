@@ -1,0 +1,3 @@
+offset,opcode,detection
+251,251: ORIGIN,tx.origin used as authentication check
+310,310: ORIGIN,tx.origin used as authentication check

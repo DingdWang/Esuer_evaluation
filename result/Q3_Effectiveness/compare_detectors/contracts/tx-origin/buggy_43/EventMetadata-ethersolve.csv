@@ -1,0 +1,3 @@
+offset,opcode,detection
+293,293: ORIGIN,tx.origin used as authentication check
+447,447: ORIGIN,tx.origin used as authentication check

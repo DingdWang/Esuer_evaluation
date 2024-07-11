@@ -1,0 +1,8 @@
+06b3ad66: bug_txorigin32(address)
+d4ee1d90: newOwner()
+8da5cb5b: owner()
+ebb646c2: sendto_txorigin17(address,uint256,address)
+f2fde38b: transferOwnership(address)
+0ccb9a12: transferTo_txorigin27(address,uint256,address)
+b7369007: withdrawAll_txorigin2(address,address)
+bff27928: withdrawAll_txorigin38(address,address)

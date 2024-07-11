@@ -1,0 +1,22 @@
+[
+    {
+        "function": "0xb9e31258",
+        "offset": 251,
+        "sources": [
+            "%16 = ORIGIN()",
+            "%17 = AND(#ffffffffffffffffffffffffffffffffffffffff, %16)",
+            "%18 = EQ(%17, %12)",
+            "JUMPI(#11b, %18)"
+        ]
+    },
+    {
+        "function": "0xbff27928",
+        "offset": 310,
+        "sources": [
+            "%32 = ORIGIN()",
+            "%33 = AND(#ffffffffffffffffffffffffffffffffffffffff, %32)",
+            "%34 = EQ(%33, %28)",
+            "JUMPI(#156, %34)"
+        ]
+    }
+]

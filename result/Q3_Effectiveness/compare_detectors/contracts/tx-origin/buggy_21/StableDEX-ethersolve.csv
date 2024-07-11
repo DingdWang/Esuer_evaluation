@@ -1,0 +1,24 @@
+offset,opcode,detection
+6142,6142: ORIGIN,tx.origin used as authentication check
+6203,6203: ORIGIN,tx.origin used as authentication check
+6264,6264: ORIGIN,tx.origin used as authentication check
+6576,6576: ORIGIN,tx.origin used as authentication check
+8714,8714: ORIGIN,tx.origin used as authentication check
+8846,8846: ORIGIN,tx.origin used as authentication check
+8907,8907: ORIGIN,tx.origin used as authentication check
+8992,8992: ORIGIN,tx.origin used as authentication check
+17141,17141: ORIGIN,tx.origin used as authentication check
+20645,20645: ORIGIN,tx.origin used as authentication check
+20706,20706: ORIGIN,tx.origin used as authentication check
+21054,21054: ORIGIN,tx.origin used as authentication check
+21113,21113: ORIGIN,tx.origin used as authentication check
+22491,22491: ORIGIN,tx.origin used as authentication check
+22623,22623: ORIGIN,tx.origin used as authentication check
+22682,22682: ORIGIN,tx.origin used as authentication check
+22814,22814: ORIGIN,tx.origin used as authentication check
+22968,22968: ORIGIN,tx.origin used as authentication check
+23100,23100: ORIGIN,tx.origin used as authentication check
+23254,23254: ORIGIN,tx.origin used as authentication check
+23386,23386: ORIGIN,tx.origin used as authentication check
+23447,23447: ORIGIN,tx.origin used as authentication check
+23506,23506: ORIGIN,tx.origin used as authentication check

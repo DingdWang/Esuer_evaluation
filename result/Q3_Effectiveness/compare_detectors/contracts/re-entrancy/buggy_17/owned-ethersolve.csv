@@ -1,0 +1,7 @@
+offset,opcode,detection
+353,353: SLOAD,Store read after unsafe call
+455,455: SSTORE,Store write after unsafe call
+638,638: SLOAD,Store read after unsafe call
+779,779: SSTORE,Store write after unsafe call
+890,890: SLOAD,Store read after unsafe call
+904,904: SSTORE,Store write after unsafe call

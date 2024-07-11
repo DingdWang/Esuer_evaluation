@@ -1,0 +1,5 @@
+b389b2c9: bug_txorigin36(address)
+8f4ffcb1: receiveApproval(address,uint256,address,bytes)
+ebb646c2: sendto_txorigin17(address,uint256,address)
+0a20e74e: transferTo_txorigin39(address,uint256,address)
+b7369007: withdrawAll_txorigin2(address,address)

@@ -1,0 +1,7 @@
+offset,opcode,detection
+969,969: ORIGIN,tx.origin used as authentication check
+1028,1028: ORIGIN,tx.origin used as authentication check
+1160,1160: ORIGIN,tx.origin used as authentication check
+1219,1219: ORIGIN,tx.origin used as authentication check
+1351,1351: ORIGIN,tx.origin used as authentication check
+1955,1955: ORIGIN,tx.origin used as authentication check

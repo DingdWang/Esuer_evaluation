@@ -1,0 +1,58 @@
+[
+    {
+        "function": "0xf7219b0",
+        "offset": 357,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "387": "SSTORE(#4, %19)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x740ed145",
+        "offset": 580,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "670": "SSTORE(%51, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xc6604ad7",
+        "offset": 823,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "958": "SSTORE(%88, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xf9a1f3d9",
+        "offset": 1383,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "1423": "SSTORE(#3, %154)"
+                }
+            ]
+        }
+    }
+]

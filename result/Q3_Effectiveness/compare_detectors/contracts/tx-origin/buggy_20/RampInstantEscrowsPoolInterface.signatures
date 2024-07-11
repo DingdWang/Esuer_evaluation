@@ -1,0 +1,5 @@
+8815eb39: ASSET_TYPE()
+9a3c6e29: release(address,address,address,bytes,bytes32)
+a80e7acb: returnFunds(address,address,address,bytes,bytes32)
+68c6116f: sendto_txorigin25(address,uint256,address)
+f6292d59: sendto_txorigin9(address,uint256,address)

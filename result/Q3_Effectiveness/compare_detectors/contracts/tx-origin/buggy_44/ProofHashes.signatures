@@ -1,0 +1,4 @@
+5119e000: bug_txorigin20(address)
+06b3ad66: bug_txorigin32(address)
+0ccb9a12: transferTo_txorigin27(address,uint256,address)
+093533b0: transferTo_txorigin31(address,uint256,address)

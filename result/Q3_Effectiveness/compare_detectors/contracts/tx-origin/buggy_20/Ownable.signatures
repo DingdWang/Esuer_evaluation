@@ -1,0 +1,6 @@
+fd5225fc: bug_txorigin40(address)
+a6f9dae1: changeOwner(address)
+8da5cb5b: owner()
+ebb646c2: sendto_txorigin17(address,uint256,address)
+0b95065e: sendto_txorigin21(address,uint256,address)
+fb44fdd1: sendto_txorigin37(address,uint256,address)

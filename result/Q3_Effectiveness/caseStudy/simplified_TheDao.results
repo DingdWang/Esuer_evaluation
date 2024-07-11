@@ -1,0 +1,82 @@
+[
+    {
+        "function": "0x590e1ae3",
+        "offset": 5158,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "5409": "SSTORE(%1410, #0)"
+                },
+                {
+                    "5356": "SSTORE(#16, %1405)"
+                },
+                {
+                    "5462": "SSTORE(%1415, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x6837ff1e",
+        "offset": 14645,
+        "sources": {
+            "call": [
+                "CALLDATALOAD(#4)"
+            ],
+            "sstore": [
+                {
+                    "14979": "SSTORE(%1921, #0)"
+                },
+                {
+                    "14926": "SSTORE(%1914, %1916)"
+                },
+                {
+                    "14819": "SSTORE(%1904, #0)"
+                },
+                {
+                    "14766": "SSTORE(%1897, %1899)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0x82661dc4",
+        "offset": 14107,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "14259": "SSTORE(%2323, %2325)"
+                },
+                {
+                    "14324": "SSTORE(#16, %2333)"
+                },
+                {
+                    "14430": "SSTORE(%2343, #0)"
+                },
+                {
+                    "14377": "SSTORE(%2338, #0)"
+                }
+            ]
+        }
+    },
+    {
+        "function": "0xa1da2fb9",
+        "offset": 15668,
+        "sources": {
+            "call": [
+                "CALLER()"
+            ],
+            "sstore": [
+                {
+                    "16068": "SSTORE(%2640, %2642)"
+                }
+            ]
+        }
+    }
+]
